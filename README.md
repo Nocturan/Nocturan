@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nocturan
-- 👀 I’m interested in Server Infrastructure, 3d Printing, Circuitry, Archery, Hunting
-- 🌱 I’m currently learning not to Stab myself with a Screwdriver
+- 👀 I’m interested in Server Infrastructure, Microcontroller, 3d Printing, Circuitry, Archery, Hunting
+- 🌱 I’m currently learning not to Stab myself with a Screwdriver ;) 
 - 💞️ I’m looking to collaborate on Voron Mods and probably some Coding stuff
 - 📫 How to reach me ? If you have to im sure you can.
 <!---
